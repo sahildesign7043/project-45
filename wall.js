@@ -1,0 +1,22 @@
+class Wall{
+
+constructor(){
+
+
+
+
+
+
+
+
+    
+}
+display(){
+
+
+
+
+
+    
+}
+}

@@ -1,0 +1,22 @@
+class Gun{
+
+    constructor(){
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    }
+    display(){
+    
+    
+    
+    
+    
+        
+    }
+    }

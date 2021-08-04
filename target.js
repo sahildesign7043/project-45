@@ -1,0 +1,22 @@
+class Target{
+
+constructor(){
+
+
+
+
+
+
+
+
+    
+}
+display(){
+
+
+
+
+
+    
+}
+}
